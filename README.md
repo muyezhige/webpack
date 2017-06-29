@@ -1,2 +1,2 @@
 # webpack
-webpack 打工具的应用和实践
+webpack 打包工具的应用和实践
